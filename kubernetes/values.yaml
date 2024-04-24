@@ -1,0 +1,6 @@
+mydiningv1:
+  uri: "mydining://mydining:30500"
+
+serviceMonitor:
+  additionalLabels:
+    release: prometheus
